@@ -26,7 +26,7 @@ This dashboard was built to monitor inventory levels, sales, and purchases using
 
 ## 📸 Dashboard Preview
 
-![Inventory Dashboard](images/dashboard_enero_2025.png)
+![Inventory Dashboard](Screenshot 2025-06-24 115705.png)
 
 ---
 
