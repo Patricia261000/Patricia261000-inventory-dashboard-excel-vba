@@ -25,7 +25,7 @@ This dashboard was built to monitor inventory levels, sales, and purchases in re
 
 ## 📸 Dashboard Preview
 
-![Inventory Dashboard](images/dashboard-enero-2025.png)
+![Inventory Dashboard]("C:\Users\patri\Desktop\PORTFOLIO_DATA_2025\1_EXCEL_2025_DASHBOARDS\1_EXCEL_SHEET\3_Proyecto_Gestion_inventario_2024_2025\inventory-dashboard-excel-vba\imagesdashboard_enero_2025.png")
 
 ---
 
