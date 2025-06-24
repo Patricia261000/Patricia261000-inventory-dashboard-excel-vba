@@ -9,44 +9,45 @@
 
 ## 🔍 Overview
 
-This dashboard was built to monitor inventory levels, sales, and purchases in real time using Excel. The solution automates reporting, calculates stock thresholds (Max, Min, Safety), and visualizes out-of-stock items to support decision-making.
+This dashboard was built to monitor inventory levels, sales, and purchases using Excel. It includes automated reporting, inventory duration analysis, and out-of-stock alerts to support real-time decisions.
 
 ---
 
 ## 💡 Key Features
 
-- 📦 Tracked: 35,000+ product units ($26.6M in inventory)
-- 📈 Entries (Purchases): $28M | Exits (Sales): $45.8M
-- ⚠️ Inventory adjustment tracking & out-of-stock alerts
-- 📊 Visual breakdown by category (e.g., Laptops, Tablets, CPUs)
-- 📆 Inventory duration: 6 days
+- 🧾 Inventory tracked: **35,000+ units** ($26.6M value)  
+- 🛒 Purchases: **33,453 units** | 💸 $28M  
+- 📤 Sales: **43,988 units** | 💵 $45.8M  
+- ⚠️ Inventory adjustments tracked and visualized  
+- 📊 Dynamic charts showing stock trends and category breakdowns  
+- ⏳ Inventory duration: **6 days**
 
 ---
 
 ## 📸 Dashboard Preview
 
-![Inventory Dashboard]("C:\Users\patri\Desktop\PORTFOLIO_DATA_2025\1_EXCEL_2025_DASHBOARDS\1_EXCEL_SHEET\3_Proyecto_Gestion_inventario_2024_2025\inventory-dashboard-excel-vba\imagesdashboard_enero_2025.png")
+![Inventory Dashboard](images/dashboard-enero-2025.png)
 
 ---
 
-## 🛠 How It Was Built
+## 🛠 Technologies Used
 
-- **Excel:** Dynamic charts, pivot tables, formulas for thresholds
-- **VBA Macros:** Automated monthly updates and calculations
-- **Data Input:** Manual and semi-automated entries for January 2025
+- **Excel:** Pivot tables, formulas, conditional formatting  
+- **VBA:** Macros for automation and report refresh  
+- **Visualization:** Custom charts, KPI boxes, data summaries
 
 ---
 
-## 📌 Learnings
+## 📚 Learnings
 
-This project strengthened my skills in:
-- Automating business reports in Excel
-- Visual storytelling through dashboards
-- Translating operational KPIs into actionable insights
+- Dashboard design principles for operations  
+- Automated workflows with VBA  
+- Translating raw inventory data into actionable visuals
 
 ---
 
 ## 📂 Files
 
-- `inventario_sample.xlsx` – Simulated data for demonstration  
-- `dashboard-enero-2025.png` – Dashboard visualization
+- `images/dashboard-enero-2025.png` – Dashboard preview  
+- *(Optional)* `data/inventario_sample.xlsx` – Sample version of source file (sanitized)  
+
